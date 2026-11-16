@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Sitemaps for Rahat Air Cool Service (Malad West, Mumbai)
+Sitemap: https://rahat-aircool-service.vercel.app/sitemap.xml
+Sitemap: https://rahat-air-cool-services.netlify.app/sitemap.xml
